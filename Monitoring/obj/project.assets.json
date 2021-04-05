@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\om94\\source\\repos\\Monitoring\\Monitoring.csproj",
+      "projectUniqueName": "C:\\Users\\om94\\Source\\Repos\\MonitoringWebSite\\Monitoring\\Monitoring.csproj",
       "projectName": "Monitoring",
-      "projectPath": "C:\\Users\\om94\\source\\repos\\Monitoring\\Monitoring.csproj",
+      "projectPath": "C:\\Users\\om94\\Source\\Repos\\MonitoringWebSite\\Monitoring\\Monitoring.csproj",
       "packagesPath": "C:\\Users\\om94\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\om94\\source\\repos\\Monitoring\\obj\\",
+      "outputPath": "C:\\Users\\om94\\Source\\Repos\\MonitoringWebSite\\Monitoring\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\om94\\AppData\\Roaming\\NuGet\\NuGet.Config",
